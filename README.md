@@ -1,3 +1,3 @@
 # Hello, World!
-** Fisrt Repository** - CursoEmVídeo
+**First Repository** - CursoEmVídeo
  *Second edition* - github website
