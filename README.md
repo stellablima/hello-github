@@ -43,7 +43,8 @@ print(f'num: {num}')
 
 * para colocar emoji :cat:
 
-@user
+@stellablima
 
 >Pergunta
->resposta
+
+resposta
