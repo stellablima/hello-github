@@ -30,12 +30,11 @@ jogo|da|velha
 0|0|1
 0|0|1
 
-### * [Nyan Cat](http://nyan.cat)
+### [Nyan Cat](http://nyan.cat)
 
 `cout >> comando entre crases`
 
-###programa.py
-
+### programa.py
 ```
 num=int(input('digite um valor'))
 print(f'num: {num}')
@@ -47,5 +46,4 @@ print(f'num: {num}')
 @user
 
 >Pergunta
-
 resposta
