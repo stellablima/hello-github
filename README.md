@@ -46,4 +46,4 @@ print(f'num: {num}')
 @user
 
 >Pergunta
-resposta
+>resposta
